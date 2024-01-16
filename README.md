@@ -1,1 +1,3 @@
-"Peter Musgrove" 
+Peter Musgrove
+musgrovp@oregonstate.edu
+
